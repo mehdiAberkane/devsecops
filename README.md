@@ -19,9 +19,12 @@ It is the best ways for security and the most value.
 Time to use some tools
 SAST (Static Application Security Testing)
 This category of tools scan you source code and find some vulnerabilities.
+
 You can add him directely in the IDE of developer.
 The main default is the high average of false positives
+
 more: https://owasp.org/www-community/Source_Code_Analysis_Tools
+
 List of tools:
 	
 	https://pypi.org/project/bandit/
