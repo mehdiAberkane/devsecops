@@ -23,6 +23,7 @@ You can add him directely in the IDE of developer.
 The main default is the high average of false positives
 more: https://owasp.org/www-community/Source_Code_Analysis_Tools
 List of tools:
+	
 	https://pypi.org/project/bandit/
 	https://www.checkmarx.com/
 	https://www.ripstech.com/
